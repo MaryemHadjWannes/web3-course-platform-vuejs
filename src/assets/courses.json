@@ -1,0 +1,57 @@
+[
+  {
+    "id": "solidity-beginner",
+    "title": "Solidity: Beginner to Intermediate Smart Contracts",
+    "tags": ["Solidity", "Beginner", "Intermediate"],
+    "description": "Get up to speed with the basics of Solidity.",
+    "avatar": "nft1.jpeg",
+    "highlights": [
+      "Making the Zombie Factory",
+      "Advanced Solidity Concepts",
+      "ERC721 & Crypto-Collectibles",
+      "Zombies Attack Their Victims",
+      "Zombie Battle System",
+      "App Front-ends & Web3.js"
+    ],
+    "lessons": [
+      "Making the Zombie Factory",
+      "Zombies Attack Their Victims",
+      "Advanced Solidity Concepts",
+      "Zombie Battle System",
+      "ERC721 & Crypto-Collectibles",
+      "App Front-ends & Web3.js"
+    ]
+  },
+  {
+    "id": "zk-beginner",
+    "title": "Beyond Ethereum: Explore the Blockchain Ecosystem",
+    "tags": ["zkSync", "Beginner"],
+    "description": "Explore the blockchain ecosystem.",
+    "avatar": "nft3.jpeg",
+    "lessons": []
+  },
+  {
+    "id": "optimism-intermediate",
+    "title": "Optimism Unleashed",
+    "tags": ["Optimism", "Intermediate"],
+    "description": "Smart contract deployment using Optimism rollups.",
+    "avatar": "nft4.jpeg",
+    "lessons": []
+  },
+  {
+    "id": "tron",
+    "title": "Tron: Decentralize the Web",
+    "tags": ["Tron"],
+    "description": "Start working with TRON public blockchain.",
+    "avatar": "nft5.jpeg",
+    "lessons": []
+  },
+  {
+    "id": "neo-intermediate",
+    "title": "Mastering the NEO Blockchain",
+    "tags": ["Neo", "Intermediate"],
+    "description": "Build decentralized applications on Neo.",
+    "avatar": "nft7.jpeg",
+    "lessons": []
+  }
+]
