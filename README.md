@@ -25,9 +25,8 @@
 
 ## 📸 Screenshots
 
-![Course Gallery](./screenshots/course-gallery.png)
-![Course Detail](./screenshots/course-detail.png)
-![Avatar Selection](./screenshots/avatar-select.png)
+![image](https://github.com/user-attachments/assets/93068172-e090-4119-bcfc-5b900a210177)
+
 
 ---
 
