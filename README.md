@@ -1,4 +1,4 @@
-# IceZoners – CryptoZombies-Inspired Solidity Learning Platform 🧊🧠
+# IceZoners – Solidity Learning Platform 🧊🧠
 
 **IceZoners** is a stylish and gamified educational platform built with Vue.js that teaches blockchain development through interactive courses and dynamic NFT avatars. Inspired by [CryptoZombies](https://cryptozombies.io), IceZoners levels up the experience with modern UI design, animated feedback, and detailed course progression.
 
